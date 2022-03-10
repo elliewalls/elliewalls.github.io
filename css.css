@@ -1,0 +1,72 @@
+
+
+h1 {
+    color: lightpink;
+   font-family: cursive;
+   font-size: xx-large;
+}
+h2 {
+    color: lightpink;
+    font-size: large;
+        font-family: monospace;
+
+}
+
+li {
+    color: ghostwhite;
+    font-size: larger;
+        font-family: monospace;
+}
+    
+h4 {
+    color: ghostwhite;
+    font-size: small;
+    font-family: monospace;
+
+}
+p {
+    margin: auto;
+    color: ghostwhite;
+    font-family:monospace; 
+    font-size: x-large;  
+}
+
+a {
+    :link, a:visited; 
+        background-color: lightpink; 
+    a
+    :hover, a:active ;
+        background-color: lightpink;
+    }
+
+img {
+    border border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+}
+body {
+    background-color:dimgrey;
+}
+ dd {
+    font-family: monospace;
+    font-size: large;
+    color: ghostwhite;
+}
+
+dt {
+    color: ghostwhite;
+    font-size: xx-large;
+    font-family: monospace;
+}
+ 
+ li {
+    display: inline-block ;
+    text-align: center;
+  }
+nav{
+    float:  right;
+}
+
